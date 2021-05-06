@@ -1,0 +1,27 @@
+body{
+    background-color: #dceb0f;
+    text-align: center;
+  }
+  h1{
+    color:red;
+    font-variant: small-caps;
+  }
+  img{
+    width: 425px;
+    height: 400px;
+      border-width: 3px;
+        border-style: solid;
+    border-color: #FFCA28;
+      border-radius: 30px;
+  }
+  p{
+    color: #16ec27;  
+  }
+  #next{
+    background-color: red;
+    color: blue;
+    padding:5px;
+    margin: 10px;
+   
+  }
+  
